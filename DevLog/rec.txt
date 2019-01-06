@@ -1,0 +1,2 @@
+cd into the directory where venv is located and run 
+venv\Scripts\activate
